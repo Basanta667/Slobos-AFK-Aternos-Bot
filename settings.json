@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "iAMBot",
     "password": "",
     "type": "offline"
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Hello",
         "I like to play Minecraft!"
       ]
     },
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1495677475345399858/jmujefr-EO2FroCaJzYZwicdqUX5C1-t0yyr_jNslBtdziDyAeasrLcpG8g_0ulWv4t2",
     "events": {
       "connect": true,
       "disconnect": true,
